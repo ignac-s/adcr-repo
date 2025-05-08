@@ -1,0 +1,1163 @@
+[
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 15.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 18:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018772+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 17:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018794+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 16:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018799+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 15:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018802+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 15.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 14:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018805+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 13:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018808+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 12:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018811+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 11:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018814+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 29.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 10:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018817+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 36.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 09:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018820+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 36.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 08:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018823+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 34.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 07:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018825+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 29.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 06:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018828+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 05:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018831+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 15.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 04:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018834+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 58.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 03:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018837+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 02:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018840+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 27.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 01:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018843+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 22.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 00:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018846+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 23:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018848+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 22:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018851+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 21:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018854+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 20:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018857+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 19:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018860+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 19.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 18:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018862+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 17:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018865+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 16:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018868+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 19.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 15:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018871+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 15.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 14:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018874+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 13:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018877+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 12:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018879+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 18.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 11:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018882+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 19.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 10:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018885+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 24.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 09:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018888+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 27.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 08:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018891+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 07:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018894+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 06:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018897+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 05:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018900+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 04:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018902+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 11.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 03:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018905+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 12.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 02:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018908+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 01:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018911+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 00:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018914+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 23:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018917+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 18.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 22:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018920+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 21:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018923+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 20:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018925+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 15.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 19:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018928+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 18:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018931+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 12.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 17:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018934+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 13.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 16:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018937+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 15:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018940+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 14.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 14:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018942+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 15.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 13:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018955+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 16.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 12:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018959+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 11:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018962+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 20.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 10:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018964+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 22.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 09:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018967+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 18.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 08:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018970+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 17.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 07:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018973+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 12.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 06:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018976+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 9.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 05:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018978+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 10.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 04:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018981+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 11.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 03:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018984+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 400,
+    "param": "PM10",
+    "value": 12.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 02:00:00",
+    "fetched_at": "2025-05-08T16:13:53.018987+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 12.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 17:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390480+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 13.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 16:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390499+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 18.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 15:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390503+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 15.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 14:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390505+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 11.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 13:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390508+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 5.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 12:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390511+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 19.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 11:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390514+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 10:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390517+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 09:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390520+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 08:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390523+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 21.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 07:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390526+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 17.4,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 06:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390529+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 8.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 05:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390532+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 13.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 04:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390534+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 14.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 03:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390537+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 15.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 02:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390540+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 01:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390543+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 21.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-08 00:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390546+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 19.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 23:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390549+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 19.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 22:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390551+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 17.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 21:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390554+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 17.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 20:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390557+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 18.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 19:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390560+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 27.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 18:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390563+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 31.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 17:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390565+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 24.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 16:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390568+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 18.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 15:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390571+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 18.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 14:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390590+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 13:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390594+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 15.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 12:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390597+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 11:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390607+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 24.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 10:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390610+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 26.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 09:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390613+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 21.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 08:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390616+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 31.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 07:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390619+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 20.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 06:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390622+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 13.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 05:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390624+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 12.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 04:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390627+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 20.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 03:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390630+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 19.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 02:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390632+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 18.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 01:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390643+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 25.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-07 00:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390646+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 25.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 23:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390649+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 23.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 22:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390652+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 17.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 21:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390654+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 15.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 20:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390657+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 16.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 19:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390660+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 10.0,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 18:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390662+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 8.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 17:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390665+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 9.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 16:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390668+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 12.8,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 15:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390671+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 11.7,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 14:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390674+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 10.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 13:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390676+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 12.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 12:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390687+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 10.1,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 11:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390690+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 11.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 10:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390693+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 12.9,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 09:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390695+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 12.2,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 08:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390698+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 14.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 07:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390701+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 17.6,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 06:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390704+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 11.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 05:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390706+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 13.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 04:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390709+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 9.3,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 03:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390712+00:00"
+  },
+  {
+    "source": "GIOS",
+    "station_id": 401,
+    "param": "PM10",
+    "value": 10.5,
+    "unit": "µg/m³",
+    "timestamp": "2025-05-06 02:00:00",
+    "fetched_at": "2025-05-08T16:13:53.390714+00:00"
+  }
+]
